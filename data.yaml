@@ -1,0 +1,14 @@
+train: \path\to\your\train\set
+val: \path\to\your\val\set
+test: \path\to\your\test\set
+
+train_labels: \path\to\your\train\labels
+val_labels: \path\to\your\val\labels
+test_labels: \path\to\your\test\labels
+
+nc: 3
+# Class names
+names:
+  0: firstclass
+  1: secondclass
+  2: thirdclass
